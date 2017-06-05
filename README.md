@@ -1,4 +1,4 @@
-Info
+Info:
 This script is build to import P2000 messgaes (only used in the Netherlands) that will only check if there is an active "GRIP" messages.
 After import it will compare the location with the GPS location that is set into the script.
 
